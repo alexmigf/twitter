@@ -1,6 +1,6 @@
 {
     "name": "twitter.alexmigf",
-    "description": "Unifficial Twitter App",
+    "description": "Unofficial Twitter Web App",
     "architecture": "@CLICK_ARCH@",
     "title": "Twitter",
     "hooks": {

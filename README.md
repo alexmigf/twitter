@@ -1,6 +1,6 @@
 # Twitter
 
-Unifficial Ubports Twitter App
+Unofficial Ubports Twitter Web App
 
 ## License
 
