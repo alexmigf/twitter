@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Twitter
+Exec=webapp-container --app-id="twitter.alexmigf" --webappUrlPatterns https://twitter.com/login
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

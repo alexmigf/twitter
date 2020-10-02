@@ -1,0 +1,15 @@
+{
+    "name": "twitter.alexmigf",
+    "description": "Unifficial Twitter App",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Twitter",
+    "hooks": {
+        "twitter": {
+            "apparmor": "twitter.apparmor",
+            "desktop":  "twitter.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Alexandre Faustino <alexmigf@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
